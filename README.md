@@ -1,3 +1,8 @@
+在中国的小盆友们，可能会常常遇到安装npm的问题，我也是绕了好多弯，可以考虑一下先安装nvm来进行管理及安装
+同时这个scratch安装过程中的有组件是收费的，系统是开源，但是核心组件好像。。。。
+我没有安装成功，如果有很好的方法希望能留下你的宝贵意见
+
+
 # scratch-gui
 #### Scratch GUI is a set of React components that comprise the interface for creating and running Scratch 3.0 projects
 
